@@ -1,0 +1,29 @@
+{
+    "user_id_list": [
+        "3623353053"
+    ],
+    "filter": 1,
+    "remove_html_tag": 1,
+    "since_date": 10,
+    "start_page": 1,
+    "write_mode": [
+        "csv"
+    ],
+    "original_pic_download": 1,
+    "retweet_pic_download": 0,
+    "original_video_download": 1,
+    "retweet_video_download": 0,
+    "download_comment": 0,
+    "comment_max_download_count": 100,
+    "download_repost": 0,
+    "repost_max_download_count": 100,
+    "result_dir_name": 0,
+    "cookie": "_T_WM=85394692961; WEIBOCN_WM=3349; SUB=_2A25JN7u8DeRhGeFG6FAQ9CjMyDSIHXVq28X0rDV6PUJbktAGLRnikW1Nedivp2mjJzjeqRY3ZtPaCPABn0YNPuJE; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWw6s6DhD_uzeffTvVQuh-U5JpX5KzhUgL.FoMRe0zpShq7e0n2dJLoIp7LxKML1KBLBKnLxKqL1hnLBoMN1heEeKBceheR; SSOLoginState=1681116140; MLOGIN=1; _T_WL=1; _WEIBO_UID=7832146038",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "charset": "utf8mb4"
+    }
+}

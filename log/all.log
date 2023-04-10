@@ -1,0 +1,15 @@
+2023-04-10 17:39:56,510 - INFO - TFBOYS-易烊千玺 信息写入csv文件完毕，保存路径: D:\Users\Documents\project\python-pachong\weibo-crawler-master\weibo-crawler-master\weibo\users.csv
+2023-04-10 17:39:56,510 - INFO - 准备搜集 TFBOYS-易烊千玺 的微博
+2023-04-10 17:39:56,821 - INFO - 已获取用户 TFBOYS-易烊千玺 的微博，内容为 与@智族GQ 一起记录时间的形状。 
+2023-04-10 17:39:56,821 - INFO - ------------------------------已获取TFBOYS-易烊千玺(3623353053)的第1页微博------------------------------
+2023-04-10 17:39:56,822 - INFO - 1条微博写入csv文件完毕,保存路径:
+2023-04-10 17:39:56,822 - INFO - D:\Users\Documents\project\python-pachong\weibo-crawler-master\weibo-crawler-master\weibo\TFBOYS-易烊千玺\3623353053.csv
+2023-04-10 17:39:56,823 - INFO - 即将进行原创微博图片下载
+2023-04-10 17:39:58,922 - INFO - 原创微博图片下载完毕,保存路径:
+2023-04-10 17:39:58,922 - INFO - D:\Users\Documents\project\python-pachong\weibo-crawler-master\weibo-crawler-master\weibo\TFBOYS-易烊千玺\img\原创微博图片
+2023-04-10 17:39:58,922 - INFO - 即将进行原创微博视频下载
+2023-04-10 17:39:58,923 - INFO - 原创微博视频下载完毕,保存路径:
+2023-04-10 17:39:58,923 - INFO - D:\Users\Documents\project\python-pachong\weibo-crawler-master\weibo-crawler-master\weibo\TFBOYS-易烊千玺\video\原创微博视频
+2023-04-10 17:39:58,923 - INFO - 微博爬取完成，共爬取1条微博
+2023-04-10 17:39:58,923 - INFO - 信息抓取完毕
+2023-04-10 17:39:58,923 - INFO - ****************************************************************************************************
